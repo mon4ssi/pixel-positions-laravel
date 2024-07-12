@@ -21,6 +21,7 @@
         "APP_DEBUG": "false",
         "APP_NAME": "Pixel Positions",
         "APP_URL": "https://pixel-positions-laravel.vercel.app",
+        "ASSET_URL": "https://pixel-positions-laravel.vercel.app",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
