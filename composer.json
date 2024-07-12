@@ -37,8 +37,7 @@
             "@php artisan package:discover --ansi"
         ],
         "post-install-cmd": [
-            "@php artisan migrate:fresh --ansi",
-            "@php artisan db:seed --ansi"
+            "@php artisan migrate --ansi --force"
         ],
         "post-update-cmd": [
             "@php artisan vendor:publish --tag=laravel-assets --ansi --force"
