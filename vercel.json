@@ -19,7 +19,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_NAME": "Vercel Laravel",
+        "APP_NAME": "Pixel Positions",
         "APP_URL": "https://pixel-positions-laravel.vercel.app",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
